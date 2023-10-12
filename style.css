@@ -1,0 +1,41 @@
+body{	
+	background-repeat: no-repeat;
+	background-image: url("IMG_20231012_181900.jpg");
+	background-position: center;
+	background attachment: fixed; 
+	background-size: 100%;
+}
+h1{
+	text-align: center;
+	color: #B0C9DD;
+	background-color: #748493;
+	font-family: Times New Roman;
+	border: 2px dotted blue;
+	padding: 10px 15px;
+	width: 250px;
+	margin:0px 0px 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+p{
+	text-align: justify;
+	font-family: Times New Roman;
+	color: #B0C9DD;
+	background-color: hsl(209, 21%, 58%);
+	padding: 20px;
+	border-top: black solid 3px;
+	border-right: black dotted 3px;
+	border-bottom: black outset 3px;
+	border-left: black dashed 3px;
+	width: 500px;
+	margin-right:auto;
+	margin-left:auto;
+}
+span{
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(32%, 0%, 55%);
+	margin: 0px 5px 0px 2px;
+}
+
+    
